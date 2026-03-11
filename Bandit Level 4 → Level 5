@@ -1,0 +1,5 @@
+The password for the next level is stored in the only human-readable file in the "inhere" directory, go to inhere directory and cat the files to get password, and the password is in human-readable form.
+	commands:
+			cd inhere ----> to go to inhere directory
+			cat <file_name>         -----> to read the file
+			"ssh bandit5@bandit.labs.overthewire.org -p2220"
