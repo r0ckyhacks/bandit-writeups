@@ -1,4 +1,4 @@
 The password for the next level is stored in a file called readme, use cat to see the content of the file which is password for next level, save that password for level 1 and login to bandit1 using ssh.
-	commands:
-			"cat readme"            --> to get password for bandit1
+commands:
+			"cat readme"   --> to get password for bandit1
 			"ssh bandit1@bandit.labs.overthewire.org -p2220"
