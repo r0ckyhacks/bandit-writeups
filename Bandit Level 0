@@ -1,0 +1,3 @@
+In your Linux machine open terminal and connect to **bandit.labs.overthewire.org** via SSH with the username and password as bandit0.
+	commands:
+			ssh bandit0@bandit.labs.overthewire.org -p2220
