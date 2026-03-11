@@ -1,0 +1,4 @@
+The password for the next level is stored in a file called `--spaces in this filename--`, but you cannot read a file that contains spaces in it name directly, we use the below command to read that type of files.
+	commands:
+			cat "./--spaces in this filename--"          ------> to read the file.
+			"ssh bandit3@bandit.labs.overthewire.org -p2220"
