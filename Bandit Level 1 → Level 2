@@ -1,0 +1,4 @@
+The password for the next level is stored in a file called "-", to read a file that starts with "-", You can use ./ before the filename, it defines the current path.
+	commands:
+			"cat ./-"   ----> to read the file.
+      "ssh bandit2@bandit.labs.overthewire.org -p2220"
