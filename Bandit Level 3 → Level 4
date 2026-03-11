@@ -1,4 +1,4 @@
-The password for the next level is stored in a hidden file in the **inhere** directory, go to inhere directory and to see hidden files there user "ls -l" command.
+The password for the next level is stored in a hidden file in the inhere directory, go to inhere directory and to see hidden files there user "ls -l" command.
 	commands:
 			cd inhere                 ----> to go to inhere directory
 			cat <file_name>     -----> to read the file
