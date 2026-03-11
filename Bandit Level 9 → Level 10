@@ -1,0 +1,4 @@
+The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters. to extract readable format text from a file we use strings command and to search for "=" characters we use grep command.
+	Command:
+			"strings data.txt | grep == "        ------> to get human-readable strings, preceded by several ‘=’ characters
+			"ssh bandit10@bandit.labs.overthewire.org -p2220"
